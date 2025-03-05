@@ -1,5 +1,3 @@
-# StoryboardAI
- 
 # StoryboardAI: AI Art Generator
 
 ## Overview
